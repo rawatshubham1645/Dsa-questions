@@ -1,0 +1,27 @@
+				Reverse Vowels 
+Description
+---------------
+
+Given a string you need to reverse all the vowels in the string.
+
+
+Input
+1<=T<=10
+
+Each test case consists of a string on a new line.
+
+
+Output
+output the single string in which vowels are reversed at their relative positions.
+
+
+Sample Input 1 
+
+2
+abc
+abe
+
+
+Sample Output 1
+abc
+eba
