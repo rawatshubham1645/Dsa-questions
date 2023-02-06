@@ -1,0 +1,28 @@
+	Taxation 
+	
+	Description
+	
+	Create an interface named Taxation which has only one method that isdouble calculateTax()
+	You have to create two implementing classes that are SalariedPeople and BusinessPeople
+	
+	Override calculateTax() method in SalariedPeople class such that
+	if annual income is up to 2,50,000 then no tax
+	if annual income is up to 5,00,000 then 10% tax of income of this slab+ applicable tax from previous slabs
+	if annual income is up to 10,00,000 then 20% tax of taxable income tax of income of this slab + applicable tax from previous slabs
+	if annual income is more than 10,00,000 then 30% tax of taxable income tax of income of this slab+ applicable tax from previous slabs
+	if annual income is more than 1,00,00,000 then 7,50,000/- is fixed surcharge
+	
+	
+	Override calculateTax() method in BusinessPeople class such that the net profit is total sale - (total purchase + operating expenses)
+	If net profit is up to 5,00,000 then no tax
+	If net profit is up to 15,00,000 then 10% tax of net profit of this slab+ applicable tax from previous slabs
+	If net profit is up to 50,00,000 then 22% tax of net profit of this slab+ applicable tax from previous slabs
+	If net profit is more than 50,00,000 then 32% tax of net profit of this slab+ applicable tax from previous slabs
+	If net profit is more than 5,00,00,000 then then 12,50,000/- is fixed surcharge
+	You don't have to take the input or the output. Complete the classes and interface as mentioned in the problem statement above
+	
+	Input
+	You don't have to take the input or the output. Complete the classes and interface as mentioned in the problem statement above
+	
+	Output
+	You don't have to take the input or the output. Complete the classes and interface as mentioned in the problem statement above
