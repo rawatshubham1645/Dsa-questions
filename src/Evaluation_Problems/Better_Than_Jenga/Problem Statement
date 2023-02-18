@@ -1,0 +1,40 @@
+	
+	Better Than Jenga
+	
+	Discription
+	--------------------------
+	
+	One day you saw two friends Sachin and Ankush playing a new game
+	which they call Jenga 2.0 and believe that it is better than Jenga.
+	In this game, there are blocks of two colors Red and Blue.
+	• In one move a person can choose two adjacent blocks of differen
+	t colors and remove them, and connect the remaining blocks in t
+	he same order.
+	If a person has no move to play he/she loses.
+	You want to know the winner of the game beforehand each time.
+	If Ankush makes the first move, Output for each game who the winner
+	will be if they both play optimally.Input Format
+	The first line of input contains an integer t, the total number of games.
+	Next t lines, conatain the description of the games.
+	For each game there is one line of input.
+	The first and the only line of input contains a string containing R and B
+	characters only.
+	
+	
+	
+
+	Output Format
+	
+	For each game, print Sachin if he is the winner of that game, else print
+	
+	Ankush.Sample Input 1
+	3
+	BBRBRB
+	BBB 
+	RB 
+	
+	Sample Output 1
+	
+	Sachin
+	Sachin
+	Ankush
