@@ -41,8 +41,8 @@ public class ThreeSum {
         int target = 0;
         List<List<Integer>> result = threeSum(nums, target);
         System.out.println("The triplets with sum " + target + " are: ");
-        for (List<Integer> triplet : result) {
-            System.out.println(triplet);
+        for (List<Integer> triplets : result) {
+            System.out.println(triplets);
         }
     }
 }
