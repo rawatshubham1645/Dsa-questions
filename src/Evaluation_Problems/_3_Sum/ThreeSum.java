@@ -37,7 +37,7 @@ public class ThreeSum {
     }
 
     public static void main(String[] args) {
-        int[] nums = {-1, 0, 1, 2, -1, -4};
+        int[] nums = {-1, 0, 1, 2, -1};
         int target = 0;
         List<List<Integer>> result = threeSum(nums, target);
         System.out.println("The triplets with sum " + target + " are: ");
