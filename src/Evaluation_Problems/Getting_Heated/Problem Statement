@@ -1,0 +1,27 @@
+
+
+	Getting Heated
+	
+	Description
+	There are 3 people in a room - Ankush, Sachin and Akhil.
+	The room is starting to get heated so they decide to turn the AC on, bu
+	t all three of them have certain conditions.
+	• Ankush wants the temperature to be at least A degrees.
+	• Sachin wants the temperature to be at most B degrees.
+	• Akhil wants the temperature to be at least C degrees.
+	They will turn the AC on if and only if all 3 of them agree on some temp
+	erature.
+	
+	
+	Input
+	4
+	30 35 25
+	30 35 40
+	30 35 35
+	30 25 35
+	
+	Output
+	AC
+	No AC
+	AC
+	No AC
