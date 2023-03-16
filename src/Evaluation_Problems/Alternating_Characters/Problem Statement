@@ -1,0 +1,17 @@
+
+	Alternating Characters
+	
+	Description
+	
+	You are given a string containing characters A and B only. Your task is
+	to change it into a string such that there are no matching adjacent char
+	acters. To do this, you are allowed to delete zero or more characters in
+	the string.
+	Your task is to find the minimum number of required deletions.
+	
+	Input
+	
+	Input Format
+	The input consists of multiple testcases.
+	The first line contains an integer t - the number of testcases.
+	Each of the next t lines contains a string s.
