@@ -1,6 +1,6 @@
 package Evaluation_Problems.Number_of_ping;
 
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args){
