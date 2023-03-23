@@ -40,6 +40,6 @@ public class Main{
         for(int i = 0;i<temp2.length;i++){
             cows+=Math.min(temp1[i],temp2[i]);
         }
-        System.out.println(bulls+"A"+cows+"B");
+        System.out.println(bulls+"A"+cows+"B"); //Hello
     }
 }
