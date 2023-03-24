@@ -6,6 +6,7 @@ public class Main{
         Scanner scn = new Scanner(System.in);
         int tc = scn.nextInt();
         for(int k= 0;k<tc;k++){
+            
             int n = scn.nextInt();
             String str= scn.next();
             
