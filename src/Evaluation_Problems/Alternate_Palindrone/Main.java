@@ -8,6 +8,7 @@ public class Main{
         for(int k= 0;k<tc;k++){
             int n = scn.nextInt();
             String str= scn.next();
+            
            System.out.println(alternate(n,str)?"Yes":"No") ;
         }
     }
